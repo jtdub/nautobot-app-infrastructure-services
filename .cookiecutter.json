@@ -1,0 +1,26 @@
+{
+    "cookiecutter": {
+        "codeowner_github_usernames": "jtdub",
+        "full_name": "Network to Code, LLC",
+        "email": "info@networktocode.com",
+        "github_org": "jtdub",
+        "app_name": "infrastructure_services",
+        "verbose_name": "Infrastructure Services",
+        "app_slug": "infrastructure-services",
+        "project_slug": "nautobot-app-infrastructure-services",
+        "repo_url": "https://github.com/jtdub/nautobot-app-infrastructure-services",
+        "base_url": "infrastructure-services",
+        "min_nautobot_version": "2.0.0",
+        "max_nautobot_version": "2.9999",
+        "camel_name": "InfrastructureServices",
+        "project_short_description": "Infrastructure Services",
+        "model_class_name": "InfrastructureServiceModel",
+        "open_source_license": "Apache-2.0",
+        "docs_base_url": "https://docs.nautobot.com",
+        "docs_app_url": "https://docs.nautobot.com/projects/infrastructure-services/en/latest",
+        "_template": "cookiecutter-nautobot-app/nautobot-app",
+        "_output_dir": "/Users/jtdub/Documents/code",
+        "_repo_dir": "cookiecutter-nautobot-app/nautobot-app",
+        "_checkout": null
+    }
+}
